@@ -1,0 +1,4 @@
+*.json
+!metadata.json
+solana-data/
+
